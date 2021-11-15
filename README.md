@@ -12,5 +12,5 @@ Syntax
 }
 ```
 ### Desktop design
-
+![image](https://user-images.githubusercontent.com/78952955/141729360-e8404229-2d9f-495f-9997-c9f2e392b0db.png)
 ### Mobile design
